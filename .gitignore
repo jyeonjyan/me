@@ -40,3 +40,9 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+### EXT ###
+.idea
+.kotlin-js-store
+.kotlin
+web/
