@@ -44,5 +44,6 @@ kotlin {
 }
 
 dependencies {
-    commonMainImplementation("org.jetbrains.kotlinx:kotlinx-datetime:0.4.0")
+//    commonTestImplementation(kotlin("test"))
+//    commonMainImplementation("org.jetbrains.kotlinx:kotlinx-datetime:0.4.0")
 }
