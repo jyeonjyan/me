@@ -18,7 +18,7 @@ fun main() {
     startApplication(::App, module.hot)
 }
 
-class App(private val rootId: String = "about") : Application() {
+class App(private val rootId: String = "aboutApp") : Application() {
     init {
         require("./css/index.css")
     }
