@@ -13,7 +13,6 @@ import kotlin.js.Date
 private const val MY_EMAIL_ADDRESS = "jyeonjyan.dev@gmail.com"
 private const val MY_LINKEDIN_PROFILE = "https://www.linkedin.com/in/jyeonjyan/"
 
-
 fun main() {
     startApplication(::App, module.hot)
 }
